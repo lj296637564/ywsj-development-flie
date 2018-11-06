@@ -33,4 +33,5 @@
 * [yun5.selectSpuType；商品品种选择](yun5.selectsputype-shang-pin-pin-zhong-xuan-ze.md)
 * [yun5.file.getFileType\(\);获取文件类型](yun5.file.getfiletype-huo-qu-wen-jian-lei-xing.md)
 * [yun5.file.selectFileCb\(\);选择文件](yun5.file.selectfilecb-xuan-ze-wen-jian.md)
+* [yun5.file.selectImage\(\);选择图片及上传](yun5.file.selectimage-xuan-ze-tu-pian-ji-shang-chuan.md)
 
