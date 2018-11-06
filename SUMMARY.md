@@ -34,4 +34,13 @@
 * [yun5.file.getFileType\(\);获取文件类型](yun5.file.getfiletype-huo-qu-wen-jian-lei-xing.md)
 * [yun5.file.selectFileCb\(\);选择文件](yun5.file.selectfilecb-xuan-ze-wen-jian.md)
 * [yun5.file.selectImage\(\);选择图片及上传](yun5.file.selectimage-xuan-ze-tu-pian-ji-shang-chuan.md)
+* [yun5.file.selectImgCb\(\);选择图片](yun5.file.selectimgcb-xuan-ze-tu-pian.md)
+* [yun5.file.bytesToSize\(\);B转KB、MB、GB、TB](yun5.file.bytestosizeb-zhuan-kbmbgbtb.md)
+* [yun5.file.deleteImg\(\);删除图片](yun5.file.deleteimg-shan-chu-tu-pian.md)
+* [yun5.file.deleteFile\(\);删除附件](yun5.file.deletefile-shan-chu-fu-jian.md)
+* [yun5.file.selectIdentityImgCb\(\);上传身份证](yun5.file.selectidentityimgcb-shang-chuan-shen-fen-zheng.md)
+* [yun5.department；选择部门](yun5.department-xuan-ze-bu-men.md)
+* [yun5.department2;选择部门和项目](yun5.department2-xuan-ze-bu-men-he-xiang-mu.md)
+* [yun5.nation；选择国家](yun5.nation-xuan-ze-guo-jia.md)
+* [yun5.selectCert；选择证书](yun5.selectcert-xuan-ze-zheng-shu.md)
 
