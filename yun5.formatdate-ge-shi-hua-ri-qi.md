@@ -8,7 +8,7 @@ let date = yun5.formatDate(date, fmt);
 
 输入参数：
 
-| 键名 | 键值说明 |
+| 参数 | 参数说明 |
 | :--- | :--- |
 | date | 时间值 |
 | fmt | 需要格式化后日期格式（yyyy-MM-dd hh:mm:ss） |

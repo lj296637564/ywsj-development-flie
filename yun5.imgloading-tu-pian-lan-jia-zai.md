@@ -8,7 +8,7 @@ let img = yun5.imgLoading(bodyObj, imgListObj);
 
 输入参数：
 
-| 键名 | 键值说明 |
+| 参数 | 参数说明 |
 | :--- | :--- |
 | bodyObj | 滚动区域 |
 | imgListObj | 图片对象 |

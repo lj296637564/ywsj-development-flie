@@ -8,7 +8,7 @@ yun5.upLoadFileByWx(obj, ids, cb);
 
 输入参数：
 
-| 键名 | 键值说明 |
+| 参数 | 参数说明 |
 | :--- | :--- |
 | obj.moduleName | 模块名 |
 | obj.isUpload | 是否立即上传 |

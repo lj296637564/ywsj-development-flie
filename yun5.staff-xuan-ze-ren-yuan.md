@@ -30,7 +30,7 @@ yun5.staff.init(true, selectSatffList || [], function (data) {
 
 输入参数：
 
-| 键值 | 键名说明 |
+| 参数 | 参数说明 |
 | :--- | :--- |
 | isMulti | 是否多选（Boolean） |
 | selectedStaff | 选择的员工（Array） |
@@ -42,5 +42,5 @@ yun5.staff.init(true, selectSatffList || [], function (data) {
 | isSelectAll | 是否多选（Boolean） |
 | otheropt | 其他参数（obj） |
 
-输出参数：选择的用户信息
+输出参数：选择的用户信息（Array）
 

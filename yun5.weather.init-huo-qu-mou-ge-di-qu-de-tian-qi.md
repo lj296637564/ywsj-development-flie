@@ -8,7 +8,7 @@ yun5.weather.init(cityCode, date, cb);
 
 输入参数：
 
-| 键名 | 键值说明 |
+| 参数 | 参数说明 |
 | :--- | :--- |
 | cityCode | 某个地区的标识 |
 | date | 时间 |

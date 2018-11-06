@@ -10,7 +10,7 @@ yun5.wechatJsApi(obj, function (resoun) {
 
 输入参数：
 
-| 键名 | 键值说明 |
+| 参数 | 参数说明 |
 | :--- | :--- |
 | obj.maxNum | 最多选择的图片数量 |
 | obj.moduleName | 模块名称 |

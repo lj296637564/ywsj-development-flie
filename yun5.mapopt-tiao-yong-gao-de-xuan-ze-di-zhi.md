@@ -15,7 +15,7 @@ map.init();
 
 输入参数object，键名、键值如下：
 
-| 键值 | 键名 |
+| 参数 | 参数说明 |
 | :--- | :--- |
 | selector | 显示地图的元素Id |
 | searchInput | 搜索框的Id值 |

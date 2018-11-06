@@ -29,4 +29,8 @@
 * [yun5.timeSection\(\);picker选择时间段](yun5.timesectionpicker-xuan-ze-shi-jian-duan.md)
 * [yun5.upLoadFileByWx\(\);微信上传图片](yun5.uploadfilebywx-wei-xin-shang-chuan-tu-pian.md)
 * [yun5.staff;选择人员](yun5.staff-xuan-ze-ren-yuan.md)
+* [yun5.group;选择群组](yun5.group-xuan-ze-qun-zu.md)
+* [yun5.selectSpuType；商品品种选择](yun5.selectsputype-shang-pin-pin-zhong-xuan-ze.md)
+* [yun5.file.getFileType\(\);获取文件类型](yun5.file.getfiletype-huo-qu-wen-jian-lei-xing.md)
+* [yun5.file.selectFileCb\(\);选择文件](yun5.file.selectfilecb-xuan-ze-wen-jian.md)
 
